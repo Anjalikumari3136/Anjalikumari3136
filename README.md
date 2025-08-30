@@ -28,8 +28,18 @@ I'm a passionate Computer Science Engineering student who loves building full-st
 ![](https://nirzak-streak-stats.vercel.app/?user=Anjalikumari3136&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjalikumari3136&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anjalikumari3136&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🏅 LeetCode Badges
+
+<p align="center">
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="50 Days Badge" width="130" />
+  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="100 Days Badge" width="130" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/202504.gif" alt="April Badge" width="130" />
+</p>
+
+<p align="center">
+  <b>Max Streak:</b> 98 days • <b>Total Active Days:</b> 126
+</p>
+
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Anjali3136?ext=contest)
 
