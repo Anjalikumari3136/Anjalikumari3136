@@ -33,11 +33,14 @@ I'm a passionate Computer Science Engineering student who loves building full-st
 <p align="center">
     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="50 Days Badge" width="130" />
   <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="100 Days Badge" width="130" />
+  <img src="https://assets.leetcode.com/static_assets/others/200.gif" alt="200 Days Badge" width="130" />
   <img src="https://assets.leetcode.com/static_assets/marketing/202504.gif" alt="April Badge" width="130" />
+  
+  
 </p>
 
 <p align="center">
-  <b>Max Streak:</b> 98 days • <b>Total Active Days:</b> 126
+  <b>Max Streak:</b> 122 days • <b>Total Active Days:</b> 270
 </p>
 
 
