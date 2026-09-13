@@ -9,7 +9,16 @@
 
 ## 🚀 About Me
 
-I'm a passionate Computer Science Engineering student who loves building full-stack applications and exploring emerging technologies. I thrive on solving problems and am always eager to take on new challenges that push my boundaries as a developer.
+Aspiring Software Engineer | MERN Stack Developer | C++ & DSA Enthusiast
+I'm a Computer Science student with hands-on experience in developing scalable full-stack web applications using the MERN stack. Passionate about designing efficient, user-centric solutions to real-world problems, with a strong foundation in Data Structures and Algorithms. Actively strengthening problem-solving and software engineering skills through practical projects and continuous learning.
+🧩 I Build: Full-stack applications that turn real-world problems into practical software solutions.
+🧠 I Solve: DSA problems in C++ while continuously improving my problem-solving and logical thinking.
+🔨 What I'm Building: Scalable applications focused on solving real-world problems.
+🌱 Deep Diving Into: System Design, Backend Architecture, AI/LLM Integration, and DevOps.
+🎯 What Drives Me: Not just learning technologies, but understanding when, why, and how to use them.
+🤝 Let's Build: Open-source projects, innovative full-stack applications, and ideas that solve meaningful problems.
+⚡ Current Status: Learning. Building. Debugging. Repeating.
+📫 Find Me:er.ak3136@gmail.com
 
 ---
 
