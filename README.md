@@ -9,16 +9,24 @@
 
 ## 🚀 About Me
 
-Aspiring Software Engineer | MERN Stack Developer | C++ & DSA Enthusiast
-I'm a Computer Science student with hands-on experience in developing scalable full-stack web applications using the MERN stack. Passionate about designing efficient, user-centric solutions to real-world problems, with a strong foundation in Data Structures and Algorithms. Actively strengthening problem-solving and software engineering skills through practical projects and continuous learning.
-🧩 I Build: Full-stack applications that turn real-world problems into practical software solutions.
-🧠 I Solve: DSA problems in C++ while continuously improving my problem-solving and logical thinking.
-🔨 What I'm Building: Scalable applications focused on solving real-world problems.
-🌱 Deep Diving Into: System Design, Backend Architecture, AI/LLM Integration, and DevOps.
-🎯 What Drives Me: Not just learning technologies, but understanding when, why, and how to use them.
-🤝 Let's Build: Open-source projects, innovative full-stack applications, and ideas that solve meaningful problems.
-⚡ Current Status: Learning. Building. Debugging. Repeating.
-📫 Find Me:er.ak3136@gmail.com
+### 💻 Aspiring Software Engineer | MERN Stack Developer | C++ & DSA Enthusiast
+
+I'm a Computer Science student with hands-on experience in developing scalable full-stack web applications using the **MERN stack**. I'm passionate about designing efficient, user-centric solutions to real-world problems, with a strong foundation in Data Structures & Algorithms.
+I'm continuously strengthening my problem-solving and software engineering skills through practical projects, experimentation, and continuous learning.
+
+## 🧩 What I Do
+
+- 🧩 **I Build:** Full-stack applications that turn real-world problems into practical software solutions.
+- 🧠 **I Solve:** DSA problems in C++ while continuously improving my problem-solving and logical thinking.
+- 🔨 **What I'm Building:** Scalable applications focused on solving real-world problems.
+- 🌱 **Deep Diving Into:** System Design, Backend Architecture, AI/LLM Integration, and DevOps.
+- 🎯 **What Drives Me:** Not just learning technologies, but understanding **when, why, and how** to use them effectively.
+- 🤝 **Let's Build:** Open-source projects, innovative full-stack applications, and ideas that solve meaningful problems.
+- ⚡ **Current Status:** Learning. Building. Debugging. Repeating.
+
+## 📫 Let's Connect
+
+📧 **Email:** er.ak3136@gmail.com
 
 ---
 
